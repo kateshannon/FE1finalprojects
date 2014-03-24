@@ -70,5 +70,9 @@ window.repos = [
     {
         user: "lstude",
         repo: "law-site"
+    },
+    {
+        user: "xeixas",
+        repo: "lvsandbox"
     }
 ];
