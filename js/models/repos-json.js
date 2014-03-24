@@ -8,12 +8,8 @@ window.repos = [
         repo: "restaurant-project"
     },
     {
-        user: "beccanaul",
-        repo: "patakon_site"
-    },
-    {
         user: "delasky",
-        repo: "restaurants-project"
+        repo: "project-engine"
     },
     {
         user: "carenvaleria",
