@@ -25,7 +25,7 @@ window.repos = [
     },
     {
         user: "JessicaMeyer",
-        repo: "restaurant-project"
+        repo: "finalProject"
     },
     {
         user: "JillChatham",
