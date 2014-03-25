@@ -1,7 +1,7 @@
 window.repos = [
     {
         user: "kateshannon",
-        repo: "restaurants-project"
+        repo: "studentvisa"
     },
     {
         user: "scottyanderson",
